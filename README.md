@@ -1,4 +1,4 @@
-# GLARE_Dataset [[Paper](https://ieeexplore.ieee.org/document/10197287)]
+# GLARE_Dataset [[Paper](https://ieeexplore.ieee.org/document/10197287)] [[arXiv](https://arxiv.org/abs/2209.08716)]
 
 Landing repository for GLARE Dataset and associated files from "GLARE: A Dataset for Traffic Sign Detection in Sun Glare". The dataset and associated files are released under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode).
 
